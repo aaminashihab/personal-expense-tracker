@@ -7,14 +7,14 @@ Designed with clean project structure and separation of concerns to simulate rea
 
 ##  Features
 
-* 1 Add expenses with date validation
-* 2 View total expenses
-* 3 Category-wise expense analysis
-* 4 Identify highest spending category
-* 5 Percentage distribution using NumPy
-* 6 Monthly expense summary
-* 7 Input validation with exception handling
-* 8 Clean modular architecture
+*  Add expenses with date validation
+*  View total expenses
+*  Category-wise expense analysis
+*  Identify highest spending category
+*  Percentage distribution using NumPy
+*  Monthly expense summary
+*  Input validation with exception handling
+*  Clean modular architecture
 
 ---
 
@@ -168,6 +168,7 @@ Travel: 41.86%
 * Unit testing integration
 
 ---
+
 
 
 
