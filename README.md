@@ -1,20 +1,20 @@
-# 💰 Personal Expense Tracker
+#  Personal Expense Tracker
 
 A modular, CLI-based Expense Tracking application built using **Python** and **Object-Oriented Programming (OOP)** principles.
 Designed with clean project structure and separation of concerns to simulate real-world backend architecture.
 
 ---
 
-## 📌 Features
+##  Features
 
-* ✅ Add expenses with date validation
-* ✅ View total expenses
-* ✅ Category-wise expense analysis
-* ✅ Identify highest spending category
-* ✅ Percentage distribution using NumPy
-* ✅ Monthly expense summary
-* ✅ Input validation with exception handling
-* ✅ Clean modular architecture
+* 1 Add expenses with date validation
+* 2 View total expenses
+* 3 Category-wise expense analysis
+* 4 Identify highest spending category
+* 5 Percentage distribution using NumPy
+* 6 Monthly expense summary
+* 7 Input validation with exception handling
+* 8 Clean modular architecture
 
 ---
 
@@ -39,9 +39,9 @@ personal_expense_tracker/
 
 ---
 
-## 🧠 Architecture Overview
+##  Architecture Overview
 
-### 🔹 Models Layer
+###  Models Layer
 
 Defines the `Expense` class:
 
@@ -49,7 +49,7 @@ Defines the `Expense` class:
 * Stores category
 * Converts and validates date (`YYYY-MM-DD` format)
 
-### 🔹 Services Layer
+###  Services Layer
 
 Contains `ExpenseTracker` class:
 
@@ -59,14 +59,14 @@ Contains `ExpenseTracker` class:
 * Computes percentage distribution
 * Filters monthly summaries
 
-### 🔹 Utils Layer
+###  Utils Layer
 
 Provides reusable validation functions:
 
 * `get_float_input()`
 * `get_int_input()`
 
-### 🔹 Main Layer
+###  Main Layer
 
 Handles:
 
@@ -77,7 +77,7 @@ Handles:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1️⃣ Clone Repository
 
@@ -100,7 +100,7 @@ python main.py
 
 ---
 
-## 📊 Sample CLI Menu
+##  Sample CLI Menu
 
 ```
 === Personal Expense Tracker ===
@@ -115,7 +115,7 @@ python main.py
 
 ---
 
-## 📈 Example Outputs
+##  Example Outputs
 
 **Category-wise Total**
 
@@ -139,7 +139,7 @@ Travel: 41.86%
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Python 3.14
 * NumPy
@@ -148,7 +148,7 @@ Travel: 41.86%
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * Clean architecture separation (Models / Services / Utils)
 * Business logic abstraction
@@ -158,7 +158,7 @@ Travel: 41.86%
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * CSV/JSON file persistence
 * database integration
@@ -168,5 +168,6 @@ Travel: 41.86%
 * Unit testing integration
 
 ---
+
 
 
