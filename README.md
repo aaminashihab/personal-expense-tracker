@@ -18,7 +18,7 @@ Designed with clean project structure and separation of concerns to simulate rea
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 personal_expense_tracker/
@@ -79,20 +79,20 @@ Handles:
 
 ##  How to Run
 
-### 1️⃣ Clone Repository
+### 1️ Clone Repository
 
 ```bash
 git clone https://github.com/aaminashihab/personal_expense_tracker
 cd personal_expense_tracker
 ```
 
-### 2️⃣ Install Dependencies
+### 2️ Install Dependencies
 
 ```bash
 uv add numpy
 ```
 
-### 3️⃣ Run Application
+### 3️ Run Application
 
 ```bash
 python main.py
@@ -168,6 +168,7 @@ Travel: 41.86%
 * Unit testing integration
 
 ---
+
 
 
 
