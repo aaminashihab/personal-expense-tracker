@@ -89,7 +89,7 @@ cd personal_expense_tracker
 ### 2️⃣ Install Dependencies
 
 ```bash
-pip install numpy
+uv add numpy
 ```
 
 ### 3️⃣ Run Application
@@ -141,7 +141,7 @@ Travel: 41.86%
 
 ## 🛠 Technologies Used
 
-* Python 3.x
+* Python 3.14
 * NumPy
 * OOP Principles
 * Modular Project Design
@@ -168,4 +168,5 @@ Travel: 41.86%
 * Unit testing integration
 
 ---
+
 
