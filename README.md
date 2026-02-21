@@ -89,6 +89,8 @@ cd personal_expense_tracker
 ### 2️ Install Dependencies
 
 ```bash
+uv init --python 3.14
+uv sync
 uv add numpy
 ```
 
@@ -168,6 +170,7 @@ Travel: 41.86%
 * Unit testing integration
 
 ---
+
 
 
 
